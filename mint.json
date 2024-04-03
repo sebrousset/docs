@@ -58,6 +58,7 @@
       "pages": [
         "introduction",
         "quickstart",
+        "testSeb",
         "development"
       ]
     },
